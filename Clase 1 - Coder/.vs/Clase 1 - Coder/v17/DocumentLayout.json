@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Camila Quintana\\Desktop\\CODER .NET\\Curso-Coder-House\\Clase 1 - Coder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B58E8E-7D62-4FBC-8383-A89F561DFED0}|Clase 1 - Coder.csproj|c:\\users\\camila quintana\\desktop\\coder .net\\curso-coder-house\\clase 1 - coder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B58E8E-7D62-4FBC-8383-A89F561DFED0}|Clase 1 - Coder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Camila Quintana\\Desktop\\CODER .NET\\Curso-Coder-House\\Clase 1 - Coder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Camila Quintana\\Desktop\\CODER .NET\\Curso-Coder-House\\Clase 1 - Coder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:16:47.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
