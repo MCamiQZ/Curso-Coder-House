@@ -1,0 +1,15 @@
+C:\Users\Camila Quintana\Desktop\CODER .NET\Curso-Coder-House\Clase 2 - Coder\bin\Debug\net8.0\Clase 2 - Coder.exe
+C:\Users\Camila Quintana\Desktop\CODER .NET\Curso-Coder-House\Clase 2 - Coder\bin\Debug\net8.0\Clase 2 - Coder.deps.json
+C:\Users\Camila Quintana\Desktop\CODER .NET\Curso-Coder-House\Clase 2 - Coder\bin\Debug\net8.0\Clase 2 - Coder.runtimeconfig.json
+C:\Users\Camila Quintana\Desktop\CODER .NET\Curso-Coder-House\Clase 2 - Coder\bin\Debug\net8.0\Clase 2 - Coder.dll
+C:\Users\Camila Quintana\Desktop\CODER .NET\Curso-Coder-House\Clase 2 - Coder\bin\Debug\net8.0\Clase 2 - Coder.pdb
+C:\Users\Camila Quintana\Desktop\CODER .NET\Curso-Coder-House\Clase 2 - Coder\obj\Debug\net8.0\Clase 2 - Coder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila Quintana\Desktop\CODER .NET\Curso-Coder-House\Clase 2 - Coder\obj\Debug\net8.0\Clase 2 - Coder.AssemblyInfoInputs.cache
+C:\Users\Camila Quintana\Desktop\CODER .NET\Curso-Coder-House\Clase 2 - Coder\obj\Debug\net8.0\Clase 2 - Coder.AssemblyInfo.cs
+C:\Users\Camila Quintana\Desktop\CODER .NET\Curso-Coder-House\Clase 2 - Coder\obj\Debug\net8.0\Clase 2 - Coder.csproj.CoreCompileInputs.cache
+C:\Users\Camila Quintana\Desktop\CODER .NET\Curso-Coder-House\Clase 2 - Coder\obj\Debug\net8.0\Clase 2 - Coder.sourcelink.json
+C:\Users\Camila Quintana\Desktop\CODER .NET\Curso-Coder-House\Clase 2 - Coder\obj\Debug\net8.0\Clase 2 - Coder.dll
+C:\Users\Camila Quintana\Desktop\CODER .NET\Curso-Coder-House\Clase 2 - Coder\obj\Debug\net8.0\refint\Clase 2 - Coder.dll
+C:\Users\Camila Quintana\Desktop\CODER .NET\Curso-Coder-House\Clase 2 - Coder\obj\Debug\net8.0\Clase 2 - Coder.pdb
+C:\Users\Camila Quintana\Desktop\CODER .NET\Curso-Coder-House\Clase 2 - Coder\obj\Debug\net8.0\Clase 2 - Coder.genruntimeconfig.cache
+C:\Users\Camila Quintana\Desktop\CODER .NET\Curso-Coder-House\Clase 2 - Coder\obj\Debug\net8.0\ref\Clase 2 - Coder.dll
